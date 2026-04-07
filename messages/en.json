@@ -1,0 +1,49 @@
+{
+  "HomePage": {
+    "title": "Track Reading, Finish Books & Stay Motivated",
+    "subtitle": "Track your reading and daily progress",
+    "download_on": "Download on the",
+    "app_store": "App Store",
+    "get_it_on": "Get it on",
+    "google_play": "Google Play"
+  },
+  "Metadata": {
+    "title": "Pageist: Your Reading Habit",
+    "description": "Track your reading habits, book progress, and personal growth with Pageist app. Your private companion for building a consistent reading habit.",
+    "keywords": "reading,tracker,books,habit,pages,library,progress,streak,goal,log,analytics,study,learn,motivation,accountability,community,insights,personalized,recommendations",
+    "openGraphTitle": "Pageist: Your Reading Habit",
+    "openGraphDescription": "Your personal companion for tracking reading habits, book progress, and personal growth. Private, secure, and designed to help you build a consistent reading habit."
+  },
+  "Info": {
+    "title": "How Pageist Works",
+    "01": {
+      "title": "Add Books You’re Reading",
+      "description": "Search for any book or add it manually to start tracking your reading journey effortlessly."
+    },
+    "02": {
+      "title": "Log Your Current Page Daily",
+      "description": "Quickly log your current page each day. The app counts read pages and keeps you on track with your goals."
+    },
+    "03": {
+      "title": "Visualize Progress with Heatmap",
+      "description": "See your reading streaks and daily progress at a glance with an intuitive yearly heatmap."
+    },
+    "04": {
+      "title": "Book Details & Personal Insights",
+      "description": "Tap any book to see detailed progress, historical logs, and insights tailored to that specific book."
+    },
+    "05": {
+      "title": "Discover Advanced Stats & Insights",
+      "description": "Analyze your reading habits, track pages/day, streaks, and monthly progress to understand your performance."
+    }
+  },
+  "Download": {
+    "ready": "Ready to dive in?",
+    "download": "Download Pageist"
+  },
+  "Footer": {
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
