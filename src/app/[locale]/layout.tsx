@@ -65,13 +65,13 @@ export default async function RootLayout({
     "@type": "MobileApplication",
     name: "Pageist",
     description:
-      "Personal well-being app for tracking mood, emotions, sleep, and thoughts with optional CBT journaling",
+      "Reading tracker app that helps you build a daily reading habit by tracking books, logging pages, monitoring streaks, and visualizing your reading progress.",
     applicationCategory: "HealthApplication",
     operatingSystem: ["iOS", "Android"],
     url: "https://pageist.app",
     downloadUrl: [
-      "https://apps.apple.com/app/pageist/id6756604660",
-      "https://play.google.com/store/apps/details?id=com.pageist.app",
+      "https://apps.apple.com/us/app/id6761618087",
+      "https://apps.apple.com/us/app/id6761618087",
     ],
     offers: {
       "@type": "Offer",
@@ -84,7 +84,7 @@ export default async function RootLayout({
     },
     inLanguage: [locale === "uk" ? "uk" : "en"],
     keywords:
-      "mood tracker, mental health, wellbeing, CBT, journaling, emotions",
+      "reading tracker, reading habit tracker, book tracker, reading log, reading progress tracker, reading streak app, track books read",
   };
 
   return (
