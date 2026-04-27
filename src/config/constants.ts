@@ -1,11 +1,12 @@
 export const STORE_LINKS = {
   en: {
     appStore: "https://apps.apple.com/us/app/id6761618087",
-    playStore: "https://apps.apple.com/us/app/id6761618087",
+    playStore: "https://play.google.com/store/apps/details?id=com.pageist.app",
   },
   uk: {
     appStore: "https://apps.apple.com/us/app/id6761618087",
-    playStore: "https://apps.apple.com/us/app/id6761618087",
+    playStore:
+      "https://play.google.com/store/apps/details?id=com.pageist.app&hl=uk",
   },
 } as const;
 
